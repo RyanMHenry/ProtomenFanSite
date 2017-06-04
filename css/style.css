@@ -1,0 +1,39 @@
+.jumbotron{
+	background: #0f0f0f;
+	border-style: solid;
+    border-color: #fa008c;
+
+    //background: url("protomanlogo.jpg");
+	//background-size: 100%, 100%;
+	//background-repeat:no-repeat;
+}
+
+body {
+     margin: 0;
+	 background: #051727;
+	 background: #0f0f0f;
+	 
+
+     background-repeat:no-repeat;
+    display: compact;
+     font: 13px/18px "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+
+.thumbnail {
+	background: #fa008c;
+}
+
+p, ol, h1{
+	font-family:  "Arial", sans-serif, serif;
+	color: #ccf0ff;
+}
+h2, h3{
+	font-family:  "Arial", sans-serif, serif;
+	color: #fa008c;
+}
+p, ol{
+	display: inline-block;
+	font-size: 1.4em;
+	line-height: 3em;
+}
